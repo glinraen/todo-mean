@@ -1,6 +1,6 @@
 {
-  "name"        : "express-todo-app",
-  "version"     : "0.0.0",
+  "name"        : "todo-mean",
+  "version"     : "1.0.0",
   "description" : "a mean stack todo app",
   "main"        : "server.js",
   "scripts"     : {
