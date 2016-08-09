@@ -1,6 +1,6 @@
 # Todo App 
 
-#### This is a clean and simple styled Todo app with tests. I built it for practice with Express and Node. 
+#### This is a clean and simply styled Todo app with tests. I built it for practice with Express and Node. 
 
 ### Technologies 
 
